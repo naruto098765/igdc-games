@@ -1,1 +1,1 @@
-# igdc-games
+# IGDC-GameJam
